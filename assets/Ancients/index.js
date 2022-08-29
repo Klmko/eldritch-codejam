@@ -1,3 +1,4 @@
+/*
 import azathoth from './Azathoth.png';
 import cthulhu from './Cthulthu.png';
 import iogSothoth from './IogSothoth.png';
@@ -11,3 +12,4 @@ const ancients = {
 }
 
 export default ancients
+*/
